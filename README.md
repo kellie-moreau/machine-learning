@@ -1,4 +1,4 @@
-# Prédiction du Prix des Appareils d'Occasion
+# Prédiction du prix des appareils d'occasion
 
 Ce projet utilise le **Machine Learning** (régression linéaire) pour estimer le prix de vente de téléphones et tablettes de seconde main.
 
